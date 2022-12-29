@@ -23,4 +23,4 @@ And finally i looked at the expected projection of alcoholic consumption by the 
 
 Below is a visual representation of the data as analysed to derive these insights
 https://app.powerbi.com/groups/me/reports/d88e074f-91cb-494c-9d2d-489ddc10a766/ReportSection?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b
-![alcohol cons1 Screenshot 2022-12-27 235010](https://user-images.githubusercontent.com/115784417/209945294-b273f0ca-717b-4150-8446-c679216add5e.png)
+![alcohol cons2 Screenshot 2022-12-27 235010](https://user-images.githubusercontent.com/115784417/209964610-5eae3561-16ff-40da-a50a-c79221b40ceb.png)
